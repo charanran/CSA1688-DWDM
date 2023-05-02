@@ -1,0 +1,3 @@
+x <- c(12,37,3,4.2,18,82,54,-21,98,-5)
+result.mean <- mean(x)
+print(result.mean)
